@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelosanc" alt="marcelosanc" /></a> </p>
 
-- 🔭 I’m currently working on **WhatsApp Chatbot**
+- 🔭 I’m currently working on **WhatsApp Chatbot, Node.js and React apps**
 
 - 🌱 I’m currently learning **Machine Learning**
 
