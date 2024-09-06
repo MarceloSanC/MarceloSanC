@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelosanc&label=Profile%20views&color=0e75b6&style=flat" alt="marcelosanc" /> </p>
 
-- 🔭 I’m currently working on **WhatsApp Chatbot, Node.js and React apps**
+- 🔭 I’m currently working as **AI developer**
 
 - 🌱 I’m currently learning **Machine Learning**
 
