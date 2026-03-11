@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelosanc&label=Profile%20views&color=0e75b6&style=flat" alt="marcelosanc" /> </p>
 
-- 🔭 I’m currently working as **AI developer**
+- 🔭 I’m currently working as **Machine Learning Engineer**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MLOps - AI agents - GenAI**
 
 - 👯 I’m looking to collaborate on **IA Projects**
 
-- 📫 How to reach me **pro.marcelosc@gmail.com**
+- 📫 How to reach me **marcelo.san.car@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
